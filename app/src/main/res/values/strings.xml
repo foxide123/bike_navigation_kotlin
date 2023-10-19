@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bike_navigation_kotlin</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia3ViYWtvbGFuZG8iLCJhIjoiY2xud3hmNHd4MGJ4YTJrb3ZpZW5nbHYzNCJ9.rbJWbbkurpXKU6lnaRC0KA</string>
+</resources>
